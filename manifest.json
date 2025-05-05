@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Weather Fetcher",
+  "version": "1.0",
+  "description": "Get current weather info.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["https://api.openweathermap.org/"]
+}
