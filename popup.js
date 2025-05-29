@@ -1,4 +1,4 @@
-const CITY = "kolkata"; // Replace with your desired city
+const CITY = "kalyani"; // Replace with your desired city
 
 async function getWeather() {
   try {
